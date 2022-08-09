@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"delete",
+				"deleteAtBeginning"
+			],
+			[
+				"deletat",
+				"deleteAtLast"
+			],
+			[
+				"dete",
+				"deleteAtPosition"
+			],
+			[
+				"deletion",
+				"Deletion"
+			],
+			[
+				"insertAt",
+				"insertAtPosition"
+			],
+			[
+				"insert",
+				"insertAtLast"
+			],
+			[
+				"sorte",
+				"sortedInsert"
+			],
+			[
+				"prev",
+				"prevnode"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"sor",
+				"sortedInsert"
+			],
+			[
+				"sizeo",
+				"sizeofNode"
+			],
+			[
+				"dele",
+				"deletionAtEnd"
+			],
+			[
+				"inser",
+				"insertionAtEnd"
+			],
+			[
+				"le",
+				"padding-left\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"p",
+				"proto\tPrototype"
+			],
+			[
+				"proto",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "LinkedList/SinglyLinkList/sll.c",
+			"settings":
+			{
+				"buffer_size": 5729,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LinkedList/DoublyLinkList/dll.c",
+			"settings":
+			{
+				"buffer_size": 5831,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"exit",
+			"quit",
+			"exit",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pi/DFS",
+		"/home/pi/DFS/LinkedList",
+		"/home/pi/DFS/LinkedList/DoublyLinkList",
+		"/home/pi/DFS/LinkedList/SinglyLinkList",
+		"/home/pi/DFS/RevLinkList",
+		"/home/pi/DFS/SortedInsert"
+	],
+	"file_history":
+	[
+		"/run/media/pi/Seagate Expansion Drive/Data_Backup(E)/Self Projects/yaml-to-img/imtocsv.py",
+		"/home/pi/DFS/RevLinkList/sll.c",
+		"/home/pi/DFS/SortedInsert/sort.c",
+		"/home/pi/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/pi/DFS/linklist.c",
+		"/home/pi/FullStackDeve/test/src/App.css",
+		"/home/pi/FullStackDeve/test/src/App.js",
+		"/home/pi/FullStackDeve/leapyear.html",
+		"/home/pi/FullStackDeve/style.css",
+		"/home/pi/FullStackDeve/Form.html",
+		"/home/pi/FullStackDeve/q4.html",
+		"/home/pi/FullStackDeve/Calculator.html",
+		"/home/pi/FullStackDeve/calc.html",
+		"/home/pi/FullStackDeve/celsiusfarenheit.html",
+		"/home/pi/DFS/ArrayDS/Insertion/insert.C",
+		"/home/pi/FullStackDeve/test2.html",
+		"/run/media/pi/Seagate Expansion Drive/WINDOWC++EXP/cam.cpp",
+		"/run/media/pi/Seagate Expansion Drive/Data_Backup(E)/Self Projects/wish_p1/PyBirthdayWish.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sizeofnode",
+			"node->",
+			"size",
+			"value"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/pi/DFS"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "LinkedList/SinglyLinkList/sll.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2239,
+								2239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2394.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "LinkedList/DoublyLinkList/dll.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4678,
+								4678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
